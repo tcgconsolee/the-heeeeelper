@@ -1,0 +1,24 @@
+{
+    "name": "the-heeeeelper-commit-fc7930da47daa489e752fee459bada7d06783b57",
+    "dependencies": {
+        "device": "*",
+        "the-heeeeelper": "github:tcgconsolee/the-heeeeelper"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.21",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
